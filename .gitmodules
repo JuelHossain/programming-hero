@@ -4,3 +4,9 @@
 [submodule "Assignments/Assignment-two"]
 	path = Assignments/Assignment-two
 	url = https://github.com/JuelHossain/Assignment-two
+[submodule "Assignment-two"]
+	path = Assignment-two
+	url = https://github.com/JuelHossain/Assignment-two
+[submodule "Assignments/Assignment-Two"]
+	path = Assignments/Assignment-Two
+	url = https://github.com/JuelHossain/Assignment-two
