@@ -1,0 +1,6 @@
+[submodule "Assignments/Assignment-One"]
+	path = Assignments/Assignment-One
+	url = https://github.com/JuelHossain/Assignment-One
+[submodule "Assignments/Assignment-two"]
+	path = Assignments/Assignment-two
+	url = https://github.com/JuelHossain/Assignment-two
