@@ -1,6 +1,39 @@
-[submodule "Assignments/Assignment-One"]
-	path = Assignments/Assignment-One
-	url = https://github.com/JuelHossain/Assignment-One
-[submodule "Assignments/Assignment-Two"]
-	path = Assignments/Assignment-Two
-	url = https://github.com/JuelHossain/Assignment-two
+[submodule "Assignment-One"]
+	path = Mission-2022
+	url = https://github.com/JuelHossain/Mission-2022
+[submodule "Assignment-Two"]
+	path = Influencer-Products
+	url = https://github.com/JuelHossain/Influencer-Products
+[submodule "Assignment-Three"]
+	path = Vip-convention-Center
+	url = https://github.com/JuelHossain/Vip-Convention-Center
+[submodule "Assignment-Four"]
+	path = Accountant-App
+	url = https://github.com/JuelHossain/Accountant-App
+[submodule "Assignment-Five"]
+	path = Phone-Hunter
+	url = https://github.com/JuelHossain/Phone-Hunter
+[submodule "Assignment-Six"]
+	path = Insta-Sohor-bug-fixing
+	url = https://github.com/JuelHossain/Insta-Sohor-bug-fixing
+[submodule "Assignment-Seven"]
+	path = Superhero-Shop
+	url = https://github.com/JuelHossain/Superhero-Shop
+[submodule "Assignment-Eight"]
+	path = Ride-The-Future 
+	url = https://github.com/JuelHossain/Ride-The-Future 
+[submodule "Assignment-Nine"]
+	path = TourBoy
+	url = https://github.com/JuelHossain/TourBoy
+[submodule "Assignment-Ten"]
+	path = eFruits-Manager 
+	url = https://github.com/JuelHossain/eFruits-Manager 
+[submodule "Assignment-Ten-Server"]
+	path = eFruits-Management-Server 
+	url = https://github.com/JuelHossain/eFruits-Management-Server  
+[submodule "Assignment-Eleven"]
+	path = Screw-Inc 
+	url = https://github.com/JuelHossain/Screw-Inc 
+[submodule "Assignment-Eleven-Server"]
+	path = Screw-Inc-Server 
+	url = https://github.com/JuelHossain/Screw-Inc-Server 
